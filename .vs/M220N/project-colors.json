@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f6998eb-7228-4a65-96ae-5fb41a0b1475": {
+      "ProjectGuid": "1f6998eb-7228-4a65-96ae-5fb41a0b1475",
+      "DisplayName": "M220N",
+      "ColorIndex": 0
+    },
+    "f4861124-146f-4964-8a8e-11231f71461c": {
+      "ProjectGuid": "f4861124-146f-4964-8a8e-11231f71461c",
+      "DisplayName": "M220NTests",
+      "ColorIndex": 1
+    },
+    "0b1cc634-d83d-4c34-ba66-20daafbbaf97": {
+      "ProjectGuid": "0b1cc634-d83d-4c34-ba66-20daafbbaf97",
+      "DisplayName": "Migrator",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
